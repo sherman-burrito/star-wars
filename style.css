@@ -1,6 +1,8 @@
-<style>
-@import 'https://fonts.googleapis.com/css?family=Lalezar';
-</style>
 h1 {
-  font-family: 'Lalezar', cursive;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
