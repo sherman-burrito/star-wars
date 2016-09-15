@@ -43,3 +43,12 @@ h3 {
 font-family: merriweather;
 color: white;
 }
+a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 140px;
+  padding-right: 140px;
+  border: 1px solid white;
+  color: white;
+  display: inline-block;
+}
